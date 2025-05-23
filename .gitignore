@@ -1,6 +1,4 @@
 erp/
-# Relative paths from Git root
-# Ignore ERP-related folders
-/mnt/c/Users/Legion/Documents/jimmy tran/Automated-invoice-processing-system/mhuy_data/
-/mnt/c/Users/Legion/Documents/jimmy tran/Automated-invoice-processing-system/converted_pngs/
-/mnt/c/Users/Legion/Documents/jimmy tran/Automated-invoice-processing-system/dataset/
+mhuy_data/
+converted_pngs/
+dataset/
