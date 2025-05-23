@@ -1,1 +1,5 @@
 erp/
+# Relative paths from Git root
+mhuy_data/
+converted_pngs/
+dataset/
