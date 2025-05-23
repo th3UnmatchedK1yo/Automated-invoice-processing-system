@@ -1,0 +1,40 @@
+{
+  "id": "484",
+  "words": [
+    "CÔNG TY CỔ PHẦN ĐẦU TƯ SẢN XUẤT LÊ TRẦN",
+    "0301584084",
+    "1C24TLT",
+    "00003098",
+    "Công Ty TNHH Thương Mại Sắt Thép Hoàng Anh",
+    "0315379776",
+    "TM/CK",
+    "11.028.000",
+    "882.240",
+    "11.910.240"
+  ],
+  "bboxes": [
+    [1285, 338, 2348, 402],
+    [1726, 476, 1973, 520],
+    [168, 431, 639, 486],
+    [328, 488, 583, 554],
+    [713, 1194, 1665, 1261],
+    [626, 1268, 878, 1319],
+    [934, 1441, 1069, 1485],
+    [2123, 1909, 2324, 1951],
+    [2175, 1978, 2324, 2022],
+    [2123, 2049, 2324, 2094]
+  ],
+  "labels": [
+    "B-COMPANY_NAME",
+    "B-SELLER_TAX_CODE",
+    "B-SERIAL",
+    "B-INVOICE_NO",
+    "B-BUYER_NAME",
+    "B-BUYER_TAX_CODE",
+    "B-PAYMENT_METHOD",
+    "B-TOTAL_AMOUNT",
+    "B-VAT_AMOUNT",
+    "B-TOTAL_PAYMENT"
+  ],
+  "image_path": "/images/484.png"
+}
