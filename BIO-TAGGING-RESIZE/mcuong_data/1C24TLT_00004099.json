@@ -1,0 +1,162 @@
+{
+  "id": "1C24TLT_00004099",
+  "words": [
+    "CÔNG TY CỔ PHẦN ĐẦU TƯ SẢN XUẤT LÊ TRẦN",
+    "Mã số thuế (Tax code):",
+    "0301584084",
+    "Ký hiệu (Serial):",
+    "1C24TLT",
+    "Số (No):",
+    "00004099",
+    "Tên đơn vị (Company's name):",
+    "CÔNG TY TNHH THƯƠNG MẠI SẮT THÉP HOÀNG ANH",
+    "Mã số thuế (Tax code):",
+    "0315379776",
+    "Hình thức thanh toán (Payment method):",
+    "TM/CK",
+    "Cộng tiền hàng (Total ammount):",
+    "18.375.600",
+    "Tiền thuế GTGT (VAT amount):",
+    "1.470.048",
+    "Tổng tiền thanh toán (Total amount):",
+    "19.845.648"
+  ],
+  "bboxes": [
+    [
+      522,
+      119,
+      924,
+      138
+    ],
+    [
+      525,
+      157,
+      678,
+      171
+    ],
+    [
+      689,
+      156,
+      783,
+      170
+    ],
+    [
+      103,
+      148,
+      281,
+      163
+    ],
+    [
+      103,
+      148,
+      281,
+      163
+    ],
+    [
+      103,
+      164,
+      261,
+      181
+    ],
+    [
+      103,
+      164,
+      261,
+      181
+    ],
+    [
+      110,
+      359,
+      302,
+      373
+    ],
+    [
+      311,
+      354,
+      671,
+      373
+    ],
+    [
+      111,
+      378,
+      269,
+      390
+    ],
+    [
+      279,
+      375,
+      375,
+      389
+    ],
+    [
+      111,
+      423,
+      381,
+      436
+    ],
+    [
+      396,
+      421,
+      448,
+      434
+    ],
+    [
+      600,
+      530,
+      775,
+      541
+    ],
+    [
+      843,
+      530,
+      919,
+      542
+    ],
+    [
+      598,
+      551,
+      775,
+      561
+    ],
+    [
+      851,
+      550,
+      919,
+      562
+    ],
+    [
+      592,
+      569,
+      777,
+      583
+    ],
+    [
+      844,
+      569,
+      920,
+      581
+    ]
+  ],
+  "labels": [
+    "B-COMPANY_NAME",
+    "B-SELLER_TAX_CODE",
+    "I-SELLER_TAX_CODE",
+    "B-SERIAL",
+    "I-SERIAL",
+    "B-INVOICE_NO",
+    "I-INVOICE_NO",
+    "B-BUYER_NAME",
+    "I-BUYER_NAME",
+    "B-BUYER_TAX_CODE",
+    "I-BUYER_TAX_CODE",
+    "B-PAYMENT_METHOD",
+    "I-PAYMENT_METHOD",
+    "B-TOTAL_AMOUNT",
+    "I-TOTAL_AMOUNT",
+    "B-VAT_AMOUNT",
+    "I-VAT_AMOUNT",
+    "B-TOTAL_PAYMENT",
+    "I-TOTAL_PAYMENT"
+  ],
+  "image_path": "../converted_pngs/1C24TLT_00004099.png"
+}

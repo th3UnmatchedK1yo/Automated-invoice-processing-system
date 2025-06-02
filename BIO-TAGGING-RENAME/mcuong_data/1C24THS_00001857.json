@@ -1,0 +1,170 @@
+{
+  "id": "1C24THS_00001857",
+  "words": [
+    "Đơn vị bán hàng (Supplier):",
+    "CÔNG TY TNHH HOA SUNG",
+    "Mã số thuế (Tax code):",
+    "0314908191",
+    "Ký hiệu (Sign):",
+    "1C24THS",
+    "Số (No):",
+    "00001857",
+    "Tên đơn vị (Company's name):",
+    "CÔNG TY TNHH THƯƠNG MẠI SẮT THÉP HOÀNG ANH",
+    "Mã số thuế (Tax code):",
+    "0315379776",
+    "Hình thức thanh toán:",
+    "TM/CK",
+    "Cộng tiền hàng (Total before VAT):",
+    "3.063.720",
+    "Tiền thuế GTGT (VAT amount):",
+    "306.372",
+    "Tổng tiền thanh toán (Total amount):",
+    "3.370.092"
+  ],
+  "bboxes": [
+    [
+      97,
+      626,
+      634,
+      681
+    ],
+    [
+      663,
+      609,
+      1520,
+      679
+    ],
+    [
+      96,
+      688,
+      534,
+      750
+    ],
+    [
+      555,
+      697,
+      919,
+      752
+    ],
+    [
+      1617,
+      217,
+      1930,
+      281
+    ],
+    [
+      1953,
+      220,
+      2164,
+      272
+    ],
+    [
+      1617,
+      282,
+      1784,
+      344
+    ],
+    [
+      1808,
+      294,
+      2013,
+      343
+    ],
+    [
+      100,
+      1078,
+      656,
+      1135
+    ],
+    [
+      695,
+      1064,
+      1976,
+      1133
+    ],
+    [
+      99,
+      1138,
+      534,
+      1202
+    ],
+    [
+      577,
+      1147,
+      837,
+      1201
+    ],
+    [
+      97,
+      1342,
+      530,
+      1391
+    ],
+    [
+      917,
+      1342,
+      1084,
+      1391
+    ],
+    [
+      1402,
+      2281,
+      1963,
+      2333
+    ],
+    [
+      2212,
+      2283,
+      2393,
+      2327
+    ],
+    [
+      1454,
+      2353,
+      1964,
+      2405
+    ],
+    [
+      2244,
+      2357,
+      2393,
+      2401
+    ],
+    [
+      1468,
+      2424,
+      1964,
+      2476
+    ],
+    [
+      2212,
+      2428,
+      2393,
+      2473
+    ]
+  ],
+  "labels": [
+    "B-COMPANY_NAME",
+    "I-COMPANY_NAME",
+    "B-SELLER_TAX_CODE",
+    "I-SELLER_TAX_CODE",
+    "B-SERIAL",
+    "I-SERIAL",
+    "B-INVOICE_NO",
+    "I-INVOICE_NO",
+    "B-BUYER_NAME",
+    "I-BUYER_NAME",
+    "B-BUYER_TAX_CODE",
+    "I-BUYER_TAX_CODE",
+    "B-PAYMENT_METHOD",
+    "I-PAYMENT_METHOD",
+    "B-TOTAL_AMOUNT",
+    "I-TOTAL_AMOUNT",
+    "B-VAT_AMOUNT",
+    "I-VAT_AMOUNT",
+    "B-TOTAL_PAYMENT",
+    "I-TOTAL_PAYMENT"
+  ],
+  "image_path": "../converted_pngs/1C24THS_00001857.png"
+}

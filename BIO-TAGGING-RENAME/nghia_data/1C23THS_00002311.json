@@ -1,0 +1,162 @@
+{
+  "id": "1C23THS_00002311",
+  "words": [
+    "CÔNG TY TNHH HOA SUNG",
+    "Mã số thuế (Tax code):",
+    "0314908191",
+    "Ký hiệu (Sign):",
+    "1C23THS",
+    "Số (No):",
+    "00002311",
+    "Tên đơn vị(Company's name) :",
+    "CÔNG TY TNHH THƯƠNG MẠI SẮT THÉP HOÀNG ANH",
+    "Mã số thuế (Tax code):",
+    "0315379776",
+    "Hình thức thanh toán (Payment method):",
+    "TM/CK",
+    "Cộng tiền hàng (Total before VAT):",
+    "1.947.500",
+    "Tiền thuế GTGT (VAT amount):",
+    "194.750",
+    "Tổng tiền thanh toán (Total amount):",
+    "2.142.250"
+  ],
+  "bboxes": [
+    [
+      663,
+      592,
+      1506,
+      660
+    ],
+    [
+      110,
+      671,
+      531,
+      732
+    ],
+    [
+      557,
+      681,
+      913,
+      733
+    ],
+    [
+      1604,
+      204,
+      1914,
+      261
+    ],
+    [
+      1939,
+      207,
+      2147,
+      256
+    ],
+    [
+      1603,
+      266,
+      1769,
+      331
+    ],
+    [
+      1796,
+      275,
+      1996,
+      327
+    ],
+    [
+      107,
+      1055,
+      654,
+      1117
+    ],
+    [
+      693,
+      1045,
+      1961,
+      1110
+    ],
+    [
+      111,
+      1119,
+      545,
+      1178
+    ],
+    [
+      579,
+      1127,
+      831,
+      1179
+    ],
+    [
+      108,
+      1316,
+      853,
+      1373
+    ],
+    [
+      915,
+      1320,
+      1074,
+      1365
+    ],
+    [
+      1390,
+      2245,
+      1940,
+      2294
+    ],
+    [
+      2192,
+      2249,
+      2370,
+      2291
+    ],
+    [
+      1440,
+      2314,
+      1944,
+      2369
+    ],
+    [
+      2225,
+      2321,
+      2370,
+      2365
+    ],
+    [
+      1356,
+      2383,
+      1942,
+      2448
+    ],
+    [
+      2189,
+      2392,
+      2370,
+      2433
+    ]
+  ],
+  "labels": [
+    "B-COMPANY_NAME",
+    "B-SELLER_TAX_CODE",
+    "I-SELLER_TAX_CODE",
+    "B-SERIAL",
+    "I-SERIAL",
+    "B-INVOICE_NO",
+    "I-INVOICE_NO",
+    "B-BUYER_NAME",
+    "I-BUYER_NAME",
+    "B-BUYER_TAX_CODE",
+    "I-BUYER_TAX_CODE",
+    "B-PAYMENT_METHOD",
+    "I-PAYMENT_METHOD",
+    "B-TOTAL_AMOUNT",
+    "I-TOTAL_AMOUNT",
+    "B-VAT_AMOUNT",
+    "I-VAT_AMOUNT",
+    "B-TOTAL_PAYMENT",
+    "I-TOTAL_PAYMENT"
+  ],
+  "image_path": "../converted_pngs/1C23THS_00002311.png"
+}

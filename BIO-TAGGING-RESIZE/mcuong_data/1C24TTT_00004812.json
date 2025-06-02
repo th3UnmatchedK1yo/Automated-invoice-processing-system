@@ -1,0 +1,162 @@
+{
+  "id": "1C24TTT_00004812",
+  "words": [
+    "CÔNG TY CỔ PHẦN THÉP HÀO HIỆP",
+    "Mã số thuế (Tax code):",
+    "0301937798",
+    "Ký hiệu (Serial):",
+    "1C24TTT",
+    "Số (No.):",
+    "00004812",
+    "Tên đơn vị (Company's name):",
+    "CÔNG TY TNHH THƯƠNG MẠI SẮT THÉP HOÀNG ANH",
+    "Mã số thuế (Tax code):",
+    "0315379776",
+    "Hình thức thanh toán:",
+    "TM/CK",
+    "Cộng tiền hàng (Total amount excl. VAT):",
+    "9.164.247",
+    "Tiền thuế GTGT (VAT amount):",
+    "916.425",
+    "Tổng tiền thanh toán (Total amount):",
+    "10.080.672"
+  ],
+  "bboxes": [
+    [
+      249,
+      25,
+      645,
+      48
+    ],
+    [
+      251,
+      50,
+      407,
+      66
+    ],
+    [
+      407,
+      50,
+      496,
+      66
+    ],
+    [
+      731,
+      138,
+      806,
+      152
+    ],
+    [
+      806,
+      138,
+      912,
+      152
+    ],
+    [
+      730,
+      156,
+      797,
+      173
+    ],
+    [
+      842,
+      160,
+      911,
+      172
+    ],
+    [
+      74,
+      240,
+      284,
+      257
+    ],
+    [
+      284,
+      240,
+      668,
+      257
+    ],
+    [
+      74,
+      261,
+      237,
+      277
+    ],
+    [
+      237,
+      261,
+      319,
+      277
+    ],
+    [
+      74,
+      324,
+      237,
+      339
+    ],
+    [
+      237,
+      324,
+      389,
+      339
+    ],
+    [
+      478,
+      586,
+      546,
+      604
+    ],
+    [
+      883,
+      588,
+      952,
+      600
+    ],
+    [
+      440,
+      607,
+      679,
+      622
+    ],
+    [
+      894,
+      609,
+      952,
+      621
+    ],
+    [
+      517,
+      629,
+      713,
+      644
+    ],
+    [
+      875,
+      630,
+      952,
+      643
+    ]
+  ],
+  "labels": [
+    "B-COMPANY_NAME",
+    "B-SELLER_TAX_CODE",
+    "I-SELLER_TAX_CODE",
+    "B-SERIAL",
+    "I-SERIAL",
+    "B-INVOICE_NO",
+    "I-INVOICE_NO",
+    "B-BUYER_NAME",
+    "I-BUYER_NAME",
+    "B-BUYER_TAX_CODE",
+    "I-BUYER_TAX_CODE",
+    "B-PAYMENT_METHOD",
+    "I-PAYMENT_METHOD",
+    "B-TOTAL_AMOUNT",
+    "I-TOTAL_AMOUNT",
+    "B-VAT_AMOUNT",
+    "I-VAT_AMOUNT",
+    "B-TOTAL_PAYMENT",
+    "I-TOTAL_PAYMENT"
+  ],
+  "image_path": "../converted_pngs/1C24TTT_00004812.png"
+}
