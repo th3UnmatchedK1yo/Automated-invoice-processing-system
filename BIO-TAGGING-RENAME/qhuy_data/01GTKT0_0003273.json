@@ -1,0 +1,170 @@
+{
+  "id": "01GTKT0_0003273",
+  "words": [
+    "Đơn vị bán hàng (Supplier):",
+    "CÔNG TY TNHH HOA SUNG",
+    "Mã số thuế (Tax code):",
+    "0314908191",
+    "Ký hiệu (Sign):",
+    "HS/19E",
+    "Số (No):",
+    "0003273",
+    "Tên đơn vị (Company's name):",
+    "CÔNG TY TNHH THƯƠNG MẠI SẮT THÉP HOÀNG ANH",
+    "Mã số thuế (Tax code):",
+    "0315379776",
+    "Hình thức thanh toán (Payment method):",
+    "TM/CK",
+    "Cộng tiền hàng (Total before VAT):",
+    "17.909.184",
+    "Tiền thuế GTGT (VAT amount):",
+    "1.790.918",
+    "Tổng tiền thanh toán (Total amount):",
+    "19.700.102"
+  ],
+  "bboxes": [
+    [
+      106,
+      536,
+      332,
+      591
+    ],
+    [
+      661,
+      520,
+      1511,
+      587
+    ],
+    [
+      110,
+      597,
+      539,
+      662
+    ],
+    [
+      557,
+      609,
+      913,
+      661
+    ],
+    [
+      1601,
+      271,
+      1915,
+      333
+    ],
+    [
+      1936,
+      278,
+      2103,
+      327
+    ],
+    [
+      1603,
+      337,
+      1769,
+      402
+    ],
+    [
+      1796,
+      349,
+      1974,
+      398
+    ],
+    [
+      107,
+      984,
+      654,
+      1046
+    ],
+    [
+      693,
+      976,
+      1961,
+      1038
+    ],
+    [
+      108,
+      1051,
+      332,
+      1108
+    ],
+    [
+      579,
+      1056,
+      831,
+      1108
+    ],
+    [
+      107,
+      1243,
+      854,
+      1303
+    ],
+    [
+      914,
+      1248,
+      1075,
+      1297
+    ],
+    [
+      1390,
+      2245,
+      1663,
+      2306
+    ],
+    [
+      2197,
+      2249,
+      2365,
+      2291
+    ],
+    [
+      1440,
+      2314,
+      1944,
+      2369
+    ],
+    [
+      2216,
+      2323,
+      2368,
+      2362
+    ],
+    [
+      1356,
+      2383,
+      1945,
+      2448
+    ],
+    [
+      2197,
+      2395,
+      2368,
+      2433
+    ]
+  ],
+  "labels": [
+    "B-COMPANY_NAME",
+    "I-COMPANY_NAME",
+    "B-SELLER_TAX_CODE",
+    "I-SELLER_TAX_CODE",
+    "B-SERIAL",
+    "I-SERIAL",
+    "B-INVOICE_NO",
+    "I-INVOICE_NO",
+    "B-BUYER_NAME",
+    "I-BUYER_NAME",
+    "B-BUYER_TAX_CODE",
+    "I-BUYER_TAX_CODE",
+    "B-PAYMENT_METHOD",
+    "I-PAYMENT_METHOD",
+    "B-TOTAL_AMOUNT",
+    "I-TOTAL_AMOUNT",
+    "B-VAT_AMOUNT",
+    "I-VAT_AMOUNT",
+    "B-TOTAL_PAYMENT",
+    "I-TOTAL_PAYMENT"
+  ],
+  "image_path": "../converted_pngs/HS19E_0003273.png"
+}

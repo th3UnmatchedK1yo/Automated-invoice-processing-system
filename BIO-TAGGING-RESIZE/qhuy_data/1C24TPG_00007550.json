@@ -1,0 +1,162 @@
+{
+  "id": "1C24TPG_00007550",
+  "words": [
+    "Đơn vị bán hàng (Supplier):",
+    "CÔNG TY TNHH SẢN XUẤT LÊ PHAN GIA",
+    "Mã số thuế:",
+    "0303958828",
+    "Ký hiệu:",
+    "1C24TPG",
+    "Số: 00007550",
+    "Tên đơn vị:",
+    "CÔNG TY TNHH THƯƠNG MẠI SẮT THÉP HOÀNG ANH",
+    "Mã số thuế:",
+    "0315379776",
+    "Hình thức thanh toán:",
+    "TM/CK",
+    "Cộng tiền hàng:",
+    "17.078.625",
+    "Tiền thuế GTGT:",
+    "1.707.863",
+    "Tổng tiền thanh toán:",
+    "18.786.488"
+  ],
+  "bboxes": [
+    [
+      183,
+      46,
+      617,
+      68
+    ],
+    [
+      183,
+      46,
+      617,
+      68
+    ],
+    [
+      186,
+      71,
+      355,
+      85
+    ],
+    [
+      186,
+      71,
+      355,
+      85
+    ],
+    [
+      769,
+      174,
+      893,
+      188
+    ],
+    [
+      769,
+      174,
+      893,
+      188
+    ],
+    [
+      769,
+      192,
+      892,
+      207
+    ],
+    [
+      70,
+      251,
+      537,
+      267
+    ],
+    [
+      70,
+      251,
+      537,
+      267
+    ],
+    [
+      70,
+      272,
+      243,
+      286
+    ],
+    [
+      70,
+      272,
+      243,
+      286
+    ],
+    [
+      70,
+      313,
+      265,
+      324
+    ],
+    [
+      70,
+      313,
+      265,
+      324
+    ],
+    [
+      503,
+      567,
+      570,
+      583
+    ],
+    [
+      856,
+      569,
+      930,
+      582
+    ],
+    [
+      462,
+      587,
+      617,
+      601
+    ],
+    [
+      863,
+      589,
+      930,
+      601
+    ],
+    [
+      541,
+      606,
+      644,
+      621
+    ],
+    [
+      856,
+      609,
+      930,
+      621
+    ]
+  ],
+  "labels": [
+    "B-COMPANY_NAME",
+    "I-COMPANY_NAME",
+    "B-SELLER_TAX_CODE",
+    "I-SELLER_TAX_CODE",
+    "B-SERIAL",
+    "I-SERIAL",
+    "B-INVOICE_NO",
+    "B-BUYER_NAME",
+    "I-BUYER_NAME",
+    "B-BUYER_TAX_CODE",
+    "I-BUYER_TAX_CODE",
+    "B-PAYMENT_METHOD",
+    "I-PAYMENT_METHOD",
+    "B-TOTAL_AMOUNT",
+    "I-TOTAL_AMOUNT",
+    "B-VAT_AMOUNT",
+    "I-VAT_AMOUNT",
+    "B-TOTAL_PAYMENT",
+    "I-TOTAL_PAYMENT"
+  ],
+  "image_path": "../converted_pngs/1C24TPG_00007550.png"
+}

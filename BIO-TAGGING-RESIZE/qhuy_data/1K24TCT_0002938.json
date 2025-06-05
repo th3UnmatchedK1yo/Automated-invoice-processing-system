@@ -1,0 +1,162 @@
+{
+  "id": "1K24TCT_0002938",
+  "words": [
+    "CÔNG TY TNHH XUẤT NHẬP KHẨU CÁT TƯỜNG",
+    "Mã số thuế:",
+    "0302809598",
+    "Ký hiệu:",
+    "1K24TCT",
+    "Số (No):",
+    "0002938",
+    "Tên đơn vị:",
+    "CÔNG TY TNHH THƯƠNG MẠI SẮT THÉP HOÀNG ANH",
+    "Mã số thuế:",
+    "0315379776",
+    "Hình thức thanh toán:",
+    "Tiền mặt",
+    "Cộng tiền hàng:",
+    "14.416.667",
+    "Tiền thuế GTGT:",
+    "1.153.333",
+    "Tổng tiền thanh toán:",
+    "15.570.000"
+  ],
+  "bboxes": [
+    [
+      218,
+      155,
+      687,
+      173
+    ],
+    [
+      95,
+      176,
+      270,
+      190
+    ],
+    [
+      95,
+      176,
+      270,
+      190
+    ],
+    [
+      705,
+      93,
+      855,
+      108
+    ],
+    [
+      705,
+      93,
+      855,
+      108
+    ],
+    [
+      705,
+      109,
+      813,
+      125
+    ],
+    [
+      705,
+      109,
+      813,
+      125
+    ],
+    [
+      112,
+      280,
+      201,
+      294
+    ],
+    [
+      210,
+      278,
+      671,
+      296
+    ],
+    [
+      112,
+      329,
+      204,
+      344
+    ],
+    [
+      210,
+      330,
+      309,
+      344
+    ],
+    [
+      112,
+      337,
+      279,
+      351
+    ],
+    [
+      112,
+      337,
+      317,
+      351
+    ],
+    [
+      656,
+      561,
+      725,
+      578
+    ],
+    [
+      843,
+      562,
+      927,
+      576
+    ],
+    [
+      648,
+      581,
+      766,
+      595
+    ],
+    [
+      853,
+      583,
+      927,
+      596
+    ],
+    [
+      571,
+      602,
+      764,
+      621
+    ],
+    [
+      842,
+      604,
+      928,
+      618
+    ]
+  ],
+  "labels": [
+    "B-COMPANY_NAME",
+    "B-SELLER_TAX_CODE",
+    "I-SELLER_TAX_CODE",
+    "B-SERIAL",
+    "I-SERIAL",
+    "B-INVOICE_NO",
+    "I-INVOICE_NO",
+    "B-BUYER_NAME",
+    "I-BUYER_NAME",
+    "B-BUYER_TAX_CODE",
+    "I-BUYER_TAX_CODE",
+    "B-PAYMENT_METHOD",
+    "I-PAYMENT_METHOD",
+    "B-TOTAL_AMOUNT",
+    "I-TOTAL_AMOUNT",
+    "B-VAT_AMOUNT",
+    "I-VAT_AMOUNT",
+    "B-TOTAL_PAYMENT",
+    "I-TOTAL_PAYMENT"
+  ],
+  "image_path": "../converted_pngs/1K24TCT_0002938.png"
+}

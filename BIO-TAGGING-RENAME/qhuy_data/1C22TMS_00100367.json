@@ -1,0 +1,162 @@
+{
+  "id": "1C22TMS_00100367",
+  "words": [
+    "CÔNG TY CỔ PHẦN MISA",
+    "Mã số thuế (Tax code):",
+    "0101243150",
+    "Ký hiệu (Serial):",
+    "1C22TMS",
+    "Số (Invoice No):",
+    "00100367",
+    "Tên đơn vị (Company's name):",
+    "HÀ MỸ HẠNH",
+    "Mã số thuế (Tax code):",
+    "0302029654",
+    "Hình thức thanh toán (Payment method):",
+    "TM/CK",
+    "Thành tiền trước thuế GTGT (Total before VAT):",
+    "500.000",
+    "Tiền thuế GTGT (VAT amount):",
+    "0",
+    "Cộng tiền thanh toán (Total amount):",
+    "500.000"
+  ],
+  "bboxes": [
+    [
+      557,
+      106,
+      1253,
+      182
+    ],
+    [
+      560,
+      193,
+      1180,
+      249
+    ],
+    [
+      560,
+      193,
+      1180,
+      249
+    ],
+    [
+      1799,
+      423,
+      2265,
+      475
+    ],
+    [
+      1799,
+      423,
+      2265,
+      475
+    ],
+    [
+      1799,
+      492,
+      2257,
+      544
+    ],
+    [
+      1799,
+      492,
+      2257,
+      544
+    ],
+    [
+      123,
+      784,
+      879,
+      847
+    ],
+    [
+      123,
+      784,
+      879,
+      847
+    ],
+    [
+      124,
+      854,
+      744,
+      908
+    ],
+    [
+      124,
+      854,
+      744,
+      908
+    ],
+    [
+      124,
+      1144,
+      920,
+      1199
+    ],
+    [
+      124,
+      1144,
+      920,
+      1199
+    ],
+    [
+      716,
+      1788,
+      1229,
+      1840
+    ],
+    [
+      1085,
+      1995,
+      1225,
+      2039
+    ],
+    [
+      1383,
+      1788,
+      1676,
+      1840
+    ],
+    [
+      1085,
+      1995,
+      1225,
+      2039
+    ],
+    [
+      1898,
+      1791,
+      2284,
+      1848
+    ],
+    [
+      2206,
+      1995,
+      2346,
+      2039
+    ]
+  ],
+  "labels": [
+    "B-COMPANY_NAME",
+    "B-SELLER_TAX_CODE",
+    "I-SELLER_TAX_CODE",
+    "B-SERIAL",
+    "I-SERIAL",
+    "B-INVOICE_NO",
+    "I-INVOICE_NO",
+    "B-BUYER_NAME",
+    "I-BUYER_NAME",
+    "B-BUYER_TAX_CODE",
+    "I-BUYER_TAX_CODE",
+    "B-PAYMENT_METHOD",
+    "I-PAYMENT_METHOD",
+    "B-TOTAL_AMOUNT",
+    "I-TOTAL_AMOUNT",
+    "B-VAT_AMOUNT",
+    "I-VAT_AMOUNT",
+    "B-TOTAL_PAYMENT",
+    "I-TOTAL_PAYMENT"
+  ],
+  "image_path": "../converted_pngs/1C22TMS_00100367.png"
+}

@@ -1,0 +1,162 @@
+{
+  "id": "1C24TKN_252",
+  "words": [
+    "CÔNG TY CỔ PHẦN KỸ NGHỆ NA SA",
+    "Mã số thuế (Tax code):",
+    "3603461567",
+    "Ký hiệu (Serial):",
+    "1C24TKN",
+    "Số (No.):",
+    "252",
+    "Tên đơn vị (Company's name):",
+    "CÔNG TY TNHH THƯƠNG MẠI SẮT THÉP HOÀNG ANH",
+    "Mã số thuế (Tax code):",
+    "0315379776",
+    "Hình thức thanh toán (Payment method):",
+    "Tiền mặt/Chuyển khoản",
+    "Cộng tiền hàng (Total amount):",
+    "14.400.000",
+    "Tiền thuế GTGT (VAT amount):",
+    "1.152.000",
+    "Tổng tiền thanh toán (Total payment):",
+    "15.552.000"
+  ],
+  "bboxes": [
+    [
+      288,
+      61,
+      612,
+      80
+    ],
+    [
+      290,
+      81,
+      528,
+      94
+    ],
+    [
+      290,
+      81,
+      528,
+      94
+    ],
+    [
+      694,
+      185,
+      779,
+      197
+    ],
+    [
+      798,
+      185,
+      858,
+      196
+    ],
+    [
+      694,
+      198,
+      743,
+      210
+    ],
+    [
+      797,
+      197,
+      833,
+      212
+    ],
+    [
+      130,
+      263,
+      283,
+      276
+    ],
+    [
+      130,
+      263,
+      615,
+      276
+    ],
+    [
+      130,
+      281,
+      314,
+      293
+    ],
+    [
+      130,
+      281,
+      314,
+      293
+    ],
+    [
+      130,
+      316,
+      365,
+      328
+    ],
+    [
+      364,
+      315,
+      468,
+      330
+    ],
+    [
+      592,
+      572,
+      654,
+      587
+    ],
+    [
+      814,
+      575,
+      879,
+      586
+    ],
+    [
+      591,
+      594,
+      763,
+      608
+    ],
+    [
+      821,
+      596,
+      879,
+      608
+    ],
+    [
+      567,
+      616,
+      762,
+      630
+    ],
+    [
+      814,
+      618,
+      879,
+      629
+    ]
+  ],
+  "labels": [
+    "B-COMPANY_NAME",
+    "B-SELLER_TAX_CODE",
+    "I-SELLER_TAX_CODE",
+    "B-SERIAL",
+    "I-SERIAL",
+    "B-INVOICE_NO",
+    "I-INVOICE_NO",
+    "B-BUYER_NAME",
+    "I-BUYER_NAME",
+    "B-BUYER_TAX_CODE",
+    "I-BUYER_TAX_CODE",
+    "B-PAYMENT_METHOD",
+    "I-PAYMENT_METHOD",
+    "B-TOTAL_AMOUNT",
+    "I-TOTAL_AMOUNT",
+    "B-VAT_AMOUNT",
+    "I-VAT_AMOUNT",
+    "B-TOTAL_PAYMENT",
+    "I-TOTAL_PAYMENT"
+  ],
+  "image_path": "../converted_pngs/1C24TKN_252.png"
+}
